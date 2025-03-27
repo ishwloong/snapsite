@@ -1,0 +1,142 @@
+{
+  "Home": {
+    "nav": {
+      "features": "Tính năng",
+      "how_it_works": "Cách hoạt động",
+      "testimonials": "Chứng thực",
+      "pricing": "Chi phí",
+      "faq": "Câu hỏi thường gặp",
+      "log_in": "Đăng nhập",
+      "get_started": "Bắt đầu"
+    },
+    "hero": {
+      "lauching_soon": "Sắp ra mắt",
+      "title": "Tạo website chuyên nghiệp chỉ trong vài phút với SnapSite",
+      "description": "SnapSite là nền tảng no-code tối ưu giúp bạn thiết kế, quản lý dữ liệu và triển khai website mà không cần biết lập trình. Với trình chỉnh sửa drag-and-drop, AI hỗ trợ thiết kế thông minh và quy trình triển khai tự động, bạn có thể biến ý tưởng thành hiện thực nhanh chóng. Hơn nữa, các công cụ SEO tích hợp sẵn giúp website của bạn nổi bật trên công cụ tìm kiếm. Bắt đầu miễn phí ngay hôm nay!",
+      "start_free_trial": "Dùng thử miễn phí",
+      "book_a_demo": "Đặt lịch",
+      "no_credit_card": "Không mất phí",
+      "14_day_trial": "Dùng thử 14 ngày",
+      "cancel_anytime": "Hủy mọi lúc",
+      "trusted_by": "Được các công ty tin tưởng"
+    },
+    "features": {
+      "features": "Tính năng",
+      "featuresList": {
+        "effortless_dnd_builder": {
+          "title": "Trình chỉnh sửa Drag and Drop",
+          "description": "Thiết kế website dễ dàng với giao diện kéo thả trực quan. Không cần biết code!"
+        },
+        "template_library": {
+          "title": "Kho giao diện",
+          "description": "Tiết kiệm thời gian với bộ sưu tập giao diện đa dạng, dễ dàng tùy chỉnh theo phong cách của bạn."
+        },
+        "dynamic_data_management": {
+          "title": "Kết nối cơ sở dữ liệu",
+          "description": "Quản lý nội dung động như bài viết, sản phẩm hoặc dữ liệu người dùng một cách dễ dàng."
+        },
+        "smart_ai_design_helper": {
+          "title": "Thiết kế với AI thông minh",
+          "description": "AI sẽ đề xuất bố cục, màu sắc và nội dung để website của bạn trông chuyên nghiệp hơn."
+        },
+        "instant_deployment": {
+          "title": "Triển khai một chạm",
+          "description": "Đưa website của bạn lên mạng ngay lập tức với tích hợp Vercel liền mạch."
+        },
+        "seo_made_simple": {
+          "title": "Tối ưu SEO tích hợp",
+          "description": "Tăng khả năng hiển thị của website với các công cụ SEO tự động và tùy chỉnh."
+        }
+      }
+    },
+    "how_it_works": {
+      "how_it_works": "Cách hoạt động",
+      "title": "Quy trình đơn giản, kết quả mạnh mẽ",
+      "description": "Bắt đầu với SnapSite chỉ với 6 bước",
+      "steps": {
+        "join_snapsite": {
+          "title": "Đăng ký",
+          "description": "Tạo tài khoản SnapSite miễn phí trong vài giây."
+        },
+        "pick_a_starting_point": {
+          "title": "Chọn mẫu hoặc bắt đầu từ đầu",
+          "description": "Lựa chọn từ thư viện mẫu chuyên nghiệp hoặc bắt đầu với trang trắng."
+        },
+        "design_your_site": {
+          "title": "Tùy chỉnh thiết kế",
+          "description": "Sử dụng trình chỉnh sửa drag-and-drop để thêm thành phần, điều chỉnh bố cục và cá nhân hóa website."
+        },
+        "link_your_content": {
+          "title": "Kết nối dữ liệu",
+          "description": "Tích hợp cơ sở dữ liệu để quản lý nội dung động một cách dễ dàng."
+        },
+        "preview_n_testing": {
+          "title": "Xem trước và kiểm tra",
+          "description": "Kiểm tra giao diện website trên các thiết bị và thực hiện điều chỉnh trước khi xuất bản."
+        },
+        "launch_it_live": {
+          "title": "Triển khai với một chạm",
+          "description": "Xuất bản website và chia sẻ với thế giới."
+        }
+      }
+    },
+    "testimonials": {
+      "testimonials": "Lời chứng thực",
+      "title": "Khách hàng nói gì về SnapSite",
+      "description": "Đừng chỉ tin vào lời chúng tôi nói. Hãy xem khách hàng của chúng tôi nói gì về trải nghiệm của họ."
+    },
+    "pricing": {
+      "pricing": "Chi phí",
+      "title": "Đơn giản, giá cả minh bạch",
+      "description": "Chọn kế hoạch phù hợp với doanh nghiệp của bạn. Tất cả các kế hoạch bao gồm một bản dùng thử miễn phí 14 ngày.",
+      "monthly": "Hàng tháng",
+      "annually": "Hàng năm (Tiết kiệm 20%)"
+    },
+    "faq": {
+      "faq": "FAQ",
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about our platform.",
+      "1": {
+        "question": "Do I need coding skills to use SnapSite?",
+        "answer": "Nope! SnapSite’s drag-and-drop system is built for everyone—no coding required."
+      },
+      "2": {
+        "question": "How does the 14-day free trial work?",
+        "answer": "Our 14-day free trial gives you full access to all features of your selected plan. No credit card is required to sign up, and you can cancel at any time during the trial period with no obligation."
+      },
+      "3": {
+        "question": "Can I change plans later?",
+        "answer": "Yes, you can upgrade or downgrade your plan at any time. If you upgrade, the new pricing will be prorated for the remainder of your billing cycle. If you downgrade, the new pricing will take effect at the start of your next billing cycle."
+      },
+      "4": {
+        "question": "Can I connect my own domain?",
+        "answer": "Yes, our paid plans let you use a custom domain for a fully branded site."
+      },
+      "5": {
+        "question": "What’s the AI design helper like?",
+        "answer": "It’s like having a designer on call—our AI offers suggestions for layouts, colors, and more based on your content."
+      },
+      "6": {
+        "question": "Can I sell products with SnapSite?",
+        "answer": "Definitely! The Advanced Plan includes e-commerce tools to start your online shop."
+      },
+      "7": {
+        "question": "What support options are available?",
+        "answer": "We offer email support for all users, plus priority help for Advanced Plan members, along with tutorials and a community hub."
+      }
+    }
+  },
+  "Sidebar": {
+    "home": "Home",
+    "dashboard": "Bảng điều khiển",
+    "editor": "Trình chỉnh sửa",
+    "auto_posting": "Auto-Posting",
+    "social": "Social Media Integration",
+    "content_suggestion": "Content Suggestion",
+    "user_management": "Users management",
+    "administrators": "Administrator",
+    "teachers": "Teachers",
+    "guardians": "Guardians",
+    "students": "Students"
+  }
+}

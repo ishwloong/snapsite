@@ -1,0 +1,142 @@
+{
+  "Home": {
+    "nav": {
+      "features": "Features",
+      "how_it_works": "How it works",
+      "testimonials": "Testimonials",
+      "pricing": "Pricing",
+      "faq": "FAQ",
+      "log_in": "Log in",
+      "get_started": "Get Started"
+    },
+    "hero": {
+      "lauching_soon": "Lauching soon",
+      "title": "Build Stunning Websites Fast with SnapSite",
+      "description": "SnapSite empowers you to create professional websites in minutes—no coding skills needed. Our user-friendly drag-and-drop builder, smart AI design tools, and instant deployment to Vercel make website creation a breeze. Optimize your site with built-in SEO features and launch your vision today. Try it free now!",
+      "start_free_trial": "Start free trial",
+      "book_a_demo": "Book a demo",
+      "no_credit_card": "No credit card",
+      "14_day_trial": "14-day trial",
+      "cancel_anytime": "Cancel any time",
+      "trusted_by": "Trusted by innovative companies worldwide"
+    },
+    "features": {
+      "features": "Features",
+      "featuresList": {
+        "effortless_dnd_builder": {
+          "title": "Effortless Drag-and-Drop Builder",
+          "description": "Craft your perfect website with a simple, no-code editor anyone can use."
+        },
+        "template_library": {
+          "title": "Template Library",
+          "description": "Save time with a diverse collection of customizable templates for any style."
+        },
+        "dynamic_data_management": {
+          "title": "Dynamic Data Management",
+          "description": "Organize and display content like articles, products, or profiles seamlessly."
+        },
+        "smart_ai_design_helper": {
+          "title": "Smart AI Design Helper",
+          "description": "Get tailored design ideas for layouts, styles, and visuals in seconds."
+        },
+        "instant_deployment": {
+          "title": "Instant Deployment",
+          "description": "Launch your site with a single click using Vercel’s fast hosting."
+        },
+        "seo_made_simple": {
+          "title": "SEO Made Simple",
+          "description": "Improve your search rankings with integrated SEO tools and tips."
+        }
+      }
+    },
+    "how_it_works": {
+      "how_it_works": "How it works",
+      "title": "Simple Process, Powerful Results",
+      "description": "Get Started with SnapSite in 6 Steps",
+      "steps": {
+        "join_snapsite": {
+          "title": "Join SnapSite",
+          "description": "Sign up for a free account in just a few clicks."
+        },
+        "pick_a_starting_point": {
+          "title": "Pick a Starting Point",
+          "description": "Choose a sleek template or design from scratch."
+        },
+        "design_your_site": {
+          "title": "Design Your Site",
+          "description": "Add sections, tweak styles, and make it yours with our drag-and-drop tools."
+        },
+        "link_your_content": {
+          "title": "Link Your Content",
+          "description": "Set up databases to power dynamic pages effortlessly."
+        },
+        "preview_n_testing": {
+          "title": "Preview & Testing",
+          "description": "Test website interface on devices and make adjustments before publishing."
+        },
+        "launch_it_live": {
+          "title": "Launch It Live",
+          "description": "Preview your site, then publish it instantly to Vercel."
+        }
+      }
+    },
+    "testimonials": {
+      "testimonials": "Testimonials",
+      "title": "Voices from SnapSite Users",
+      "description": "Don't just take our word for it. See what our customers have to say about their experience."
+    },
+    "pricing": {
+      "pricing": "Pricing",
+      "title": "Simple, Transparent Pricing",
+      "description": "Choose the plan that's right for your business. All plans include a 14-day free trial.",
+      "monthly": "Monthly",
+      "annually": "Annually (Save 20%)"
+    },
+    "faq": {
+      "faq": "FAQ",
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about our platform.",
+      "1": {
+        "question": "Do I need coding skills to use SnapSite?",
+        "answer": "Nope! SnapSite’s drag-and-drop system is built for everyone—no coding required."
+      },
+      "2": {
+        "question": "How does the 14-day free trial work?",
+        "answer": "Our 14-day free trial gives you full access to all features of your selected plan. No credit card is required to sign up, and you can cancel at any time during the trial period with no obligation."
+      },
+      "3": {
+        "question": "Can I change plans later?",
+        "answer": "Yes, you can upgrade or downgrade your plan at any time. If you upgrade, the new pricing will be prorated for the remainder of your billing cycle. If you downgrade, the new pricing will take effect at the start of your next billing cycle."
+      },
+      "4": {
+        "question": "Can I connect my own domain?",
+        "answer": "Yes, our paid plans let you use a custom domain for a fully branded site."
+      },
+      "5": {
+        "question": "What’s the AI design helper like?",
+        "answer": "It’s like having a designer on call—our AI offers suggestions for layouts, colors, and more based on your content."
+      },
+      "6": {
+        "question": "Can I sell products with SnapSite?",
+        "answer": "Definitely! The Advanced Plan includes e-commerce tools to start your online shop."
+      },
+      "7": {
+        "question": "What support options are available?",
+        "answer": "We offer email support for all users, plus priority help for Advanced Plan members, along with tutorials and a community hub."
+      }
+    }
+  },
+  "Sidebar": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "editor": "Editor",
+    "auto_posting": "Auto-Posting",
+    "social": "Social Media Integration",
+    "content_suggestion": "Content Suggestion",
+    "user_management": "Users management",
+    "administrators": "Administrator",
+    "teachers": "Teachers",
+    "guardians": "Guardians",
+    "students": "Students"
+  }
+}
