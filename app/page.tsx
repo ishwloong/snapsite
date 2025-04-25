@@ -31,8 +31,8 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useTheme } from "next-themes";
 import { useTranslations } from "next-intl";
-import { LanguageSwitcher } from "@/components/layout/language-switcher";
-import { ModeToggle } from "@/components/layout/mode-toggle";
+import { LanguageSwitcher } from "@/components/common/language-switcher";
+import { ModeToggle } from "@/components/common/mode-toggle";
 
 export default function LandingPage() {
   const t = useTranslations("Home");
