@@ -9,7 +9,7 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { setUserLocale } from "@/service/locale";
+import { setUserLocale } from "@/services/locale";
 
 export function LanguageSwitcher() {
   const setLanguage = async (lang: "vi" | "en") => {
