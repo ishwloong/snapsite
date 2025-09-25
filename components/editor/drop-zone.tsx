@@ -10,7 +10,7 @@ export default function DropZone() {
   return (
     <div
       className={cn(
-        "flex-1 bg-white @container w-full mx-auto transition-all outline-solid outline-1 relative",
+        "flex-1 bg-white @container-[size] w-full mx-auto transition-all outline-solid outline-1 relative",
         device === "mobile" && "max-w-[420px]",
         device === "tablet" && "max-w-3xl",
         device === "desktop" && "max-w-full"

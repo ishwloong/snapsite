@@ -1,5 +1,6 @@
 import SiteEditorHeader from "@/components/editor/header";
 import SiteEditorMainSidebar from "@/components/editor/sidebar/main-sidebar";
+import { SiteEditorSubSidebar } from "@/components/editor/sidebar/sub-sidebar";
 import ToggleViewPort from "@/components/editor/toggle-viewport";
 
 export default function SiteEditorLayout({
@@ -12,7 +13,9 @@ export default function SiteEditorLayout({
       <SiteEditorHeader />
       <div className="flex-1 flex">
         <SiteEditorMainSidebar />
-        <div className="w-full max-w-72 border-r"></div>
+        <div className="w-full max-w-72 border-r px-6 py-4">
+          <SiteEditorSubSidebar />
+        </div>
         <div className="flex-1 flex flex-col">
           <div className="h-14 border-b w-full flex items-center justify-between">
             <div></div>
